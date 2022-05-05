@@ -2,7 +2,6 @@
 - 🔭 Hoje trabalho com integração de software 
 - 🌱 Estudando python e node.js
 - 📫 Contate-me no email: anacarolinamvo@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
