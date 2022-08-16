@@ -1,6 +1,5 @@
-## Oii! Sou a Carol Machado
-- 🔭 Hoje trabalho com integração de software 
-- 🌱 Estudando python e node.js
+## Oii! Sou a Carol Machado 
+- 🌱 Estudando python,html, css e node.js
 - 📫 Contate-me no email: anacarolinamvo@gmail.com
 
 <div align="center">
