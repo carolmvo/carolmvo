@@ -14,8 +14,8 @@
   <img align="center" alt="Carol-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Carol-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           
-  <img align="right" alt="Carol-pic" src="https://i.picasion.com/pic92/7d0c73fb59d739715ca726480dc09efa.gif" height="150" style="border-radius:50px;"/>
-
+<!--   <img align="right" alt="Carol-pic" src="https://i.picasion.com/pic92/7d0c73fb59d739715ca726480dc09efa.gif" height="150" style="border-radius:50px;"/>
+ -->
 
 ##
 
