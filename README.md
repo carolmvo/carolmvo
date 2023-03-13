@@ -1,5 +1,5 @@
 ## Oii! Sou a Carol Machado 
-- 🌱 Estudando python, html, css e node.js
+- 🌱 Estudando React.js
 - 📫 Contate-me no email: anacarolinamvo@gmail.com
 
 <div align="center">
