@@ -21,7 +21,7 @@
           
           
           
-<img align="right" alt="Carol-pic" src="https://i.picasion.com/pic92/7d0c73fb59d739715ca726480dc09efa.gif" height="150" style="border-radius:50px;"/>
+<!-- <img align="right" alt="Carol-pic" src="https://i.picasion.com/pic92/7d0c73fb59d739715ca726480dc09efa.gif" height="150" style="border-radius:50px;"/> -->
 
 
 ##
