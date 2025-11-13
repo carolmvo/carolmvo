@@ -1,4 +1,6 @@
-## Oii! Sou a Carol Machado 
+## Oii, sou a Carol!! 
+- 📖 Finalizando Engenharia de Software
+- 🔎 Aprofundando em FrontEnd
 - 🌱 Estudando React.js
 - 📫 Contate-me no email: anacarolinamvo@gmail.com
 
